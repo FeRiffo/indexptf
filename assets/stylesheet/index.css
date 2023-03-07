@@ -578,6 +578,7 @@ img.logo-sena {
     margin-bottom: 5rem;
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
     align-items: center;
 }
 
